@@ -1,0 +1,13 @@
+C:\Users\YUQINGGAO\Desktop\翻译\WFormsApp\WFormsApp\obj\Debug\WFormsApp.csprojAssemblyReference.cache
+C:\Users\YUQINGGAO\Desktop\翻译\WFormsApp\WFormsApp\obj\Debug\WFormsApp.Form1.resources
+C:\Users\YUQINGGAO\Desktop\翻译\WFormsApp\WFormsApp\obj\Debug\WFormsApp.Properties.Resources.resources
+C:\Users\YUQINGGAO\Desktop\翻译\WFormsApp\WFormsApp\obj\Debug\WFormsApp.csproj.GenerateResource.cache
+C:\Users\YUQINGGAO\Desktop\翻译\WFormsApp\WFormsApp\obj\Debug\WFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\YUQINGGAO\Desktop\翻译\WFormsApp\WFormsApp\bin\Debug\WFormsApp.exe.config
+C:\Users\YUQINGGAO\Desktop\翻译\WFormsApp\WFormsApp\bin\Debug\WFormsApp.exe
+C:\Users\YUQINGGAO\Desktop\翻译\WFormsApp\WFormsApp\bin\Debug\WFormsApp.pdb
+C:\Users\YUQINGGAO\Desktop\翻译\WFormsApp\WFormsApp\obj\Debug\WFormsApp.exe
+C:\Users\YUQINGGAO\Desktop\翻译\WFormsApp\WFormsApp\obj\Debug\WFormsApp.pdb
+C:\Users\YUQINGGAO\Desktop\翻译\WFormsApp\WFormsApp\bin\Debug\BarcodeX.dll
+C:\Users\YUQINGGAO\Desktop\翻译\WFormsApp\WFormsApp\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\YUQINGGAO\Desktop\翻译\WFormsApp\WFormsApp\obj\Debug\WFormsApp.csproj.CopyComplete
